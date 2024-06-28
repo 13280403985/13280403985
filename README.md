@@ -2,7 +2,7 @@
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=header&text=李贵朋是大帅哥&fontSize=90&fontAlign=50&fontAlignY=30&desc=李贵朋好帅！😊😊😊&descAlign=50&descSize=30&descAlignY=60&animation=twinkling" />
 </p>
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=50&pause=1000&random=false&width=450&lines=%E6%9D%8E%E8%B4%B5%E6%9C%8B%E5%A4%A7%E5%B8%85%E5%93%A5)](https://git.io/typing-svg)
 <!-- https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=25&pause=1000&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+李贵朋's+GitHub+profile+page!;I+am+super+obsessed+with+programming!" />
