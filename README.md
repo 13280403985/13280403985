@@ -28,7 +28,7 @@
 
 <!-- https://github.com/badges/shields -->
 <p align="center">
-<a href="[https://github.com/ZhangQL2824](https://github.com/13280403985)"><img src="https://img.shields.io/badge/GitHub-李贵朋-blue?logo=github" /></a>
+<a href=<"https://github.com/13280403985"><img src="https://img.shields.io/badge/GitHub-李贵朋-blue?logo=github" /></a>
 <img src="https://img.shields.io/badge/QQ-2216487639-green?logo=tencentqq" />
 
 <img src="[https://img.shields.io/badge/QQ-2216487639-green?logo=tencentqq](https://img.shields.io/badge/runningmonkey0-a?logo=wechat&labelColor=white&color=gray)" />
